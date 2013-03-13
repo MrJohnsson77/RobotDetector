@@ -2,7 +2,7 @@
     "name": "phantazm/robotdetector",
     "description": "Detect robots and crawlers.",
     "keywords": ["crawler", "spider", "robots", "user_agent"],
-    "homepage": "https://github.com/Phantazm/Robot-Detector",
+    "homepage": "https://github.com/Phantazm/RobotDetector",
     "license": "Apache 2.0",
     "authors": [
         {
