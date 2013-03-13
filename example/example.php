@@ -7,7 +7,7 @@ $user_agent = $_SERVER['HTTP_USER_AGENT'];
 
 $check = $detect->RobotDetect($user_agent);
 
-$robot = ($check == "0") ? "Not a robot": "This is a robot";
+$robot = ($check === 0) ? "Not a robot": "This is a robot";
 
 echo "$robot";
  ?>
