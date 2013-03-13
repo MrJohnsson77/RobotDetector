@@ -1,10 +1,11 @@
-Robot Detector v0.0.2
+#Robot Detector v0.0.2
+##Check for robots & crawlers.
 
-Detect crawlers & robots on your site.
+- Detect crawlers & robots on your site.
+- Skips check if browser is known. (Firefox, Opera, Chrome, MSIE).
+- Skip check if browser is known.
+- Returns 1 for robot or 0 for no robot. (integer)
+- Check takes around 0.00001-2 seconds.
 
-Skips check if browser is known. (Firefox, Opera, Chrome, MSIE).
-If not known browser, check if robot and returns 1 for robot and 0 for no robot.
-
-A check takes around 0.0001 - 0.0002 seconds to execute.
 
 Check example on info howto use it.
