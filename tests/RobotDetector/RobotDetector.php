@@ -5,7 +5,7 @@ require "$base/src/RobotDetector/RobotDetector.php";
 class testRobotDetector extends PHPUnit_Framework_TestCase {
 
 
-	public function setUp() {
+	public function SetUp() {
 		$this->test = new RobotDetector\RobotDetector;
 	}
 
