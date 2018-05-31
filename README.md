@@ -1,4 +1,4 @@
-#Robot Detector v1.0.0 [![Build Status](https://travis-ci.org/MrJohnsson77/RobotDetector.svg?branch=master)](https://travis-ci.org/Phantazm/RobotDetector)
+#Robot Detector v1.0.0 [![Build Status](https://travis-ci.org/MrJohnsson77/RobotDetector.svg?branch=master)](https://travis-ci.org/Phantazm/RobotDetector)    
 ##Check for robots & crawlers.
 
 - Detect crawlers & robots on your site.
