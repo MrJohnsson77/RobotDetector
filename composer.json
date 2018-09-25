@@ -1,8 +1,8 @@
 {
-    "name": "phantazm/robotdetector",
+    "name": "sebastiank/robotdetector",
     "description": "Detect robots and crawlers.",
     "keywords": ["crawler", "spider", "robots", "user_agent"],
-    "homepage": "https://github.com/Phantazm/RobotDetector",
+    "homepage": "https://github.com/sebastiank/RobotDetector",
     "license": "MIT",
     "authors": [
         {
